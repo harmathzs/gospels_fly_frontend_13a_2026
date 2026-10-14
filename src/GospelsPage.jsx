@@ -12,7 +12,7 @@ export default function GospelsPage() {
 ])
 
     const handleLoad = (gospelAuthor, content) => {
-        // TODO - implement handleLoad
+
     }
 
   return (
